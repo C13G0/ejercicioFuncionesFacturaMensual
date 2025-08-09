@@ -15,5 +15,5 @@ function obtenerConsumo() {
         consumoGuardado = valor;
     }
     return consumoGuardado;
-}
+} 
 
